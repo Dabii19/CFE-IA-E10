@@ -19,7 +19,7 @@
 # El conjunto de entrenamiento se dividió en 90% para entrenamiento y 10% para prueba, garantizando una evaluación representativa del modelo.
 
 # Pasos realizados
-## 1. Carga y limpieza de datos
+# 1. Carga y limpieza de datos
 
 ## Se cargaron los archivos CSV con pandas.
 
