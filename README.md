@@ -2,7 +2,7 @@
 
 # Clasificación de Opiniones
 
-# El objetivo de este proyecto es entrenar un modelo de Procesamiento de Lenguaje Natural (PLN) capaz de predecir la opinión binaria (1 = positiva, 0 = negativa) de cada registro, utilizando como entrada el contenido textual presente en la columna declaración.
+## El objetivo de este proyecto es entrenar un modelo de Procesamiento de Lenguaje Natural (PLN) capaz de predecir la opinión binaria (1 = positiva, 0 = negativa) de cada registro, utilizando como entrada el contenido textual presente en la columna declaración.
 
 # Datos
 
